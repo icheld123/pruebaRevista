@@ -1491,7 +1491,7 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   #contenido_offset_2{
     width: 43%;
-    top: 30%;
+    top: 40%;
     left: 135%;
   }
   #contenido_offset_3{
@@ -1501,7 +1501,7 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   #contenido_offset_4{
     width: 45%;
-    top: 100%;
+    top: 50%;
     left: 135%;
   }
   body .pages_page__inner .content_quote {
