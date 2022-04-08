@@ -1564,5 +1564,5 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(3) p {
     line-height: 15px!important;
-  }
+}
 }
