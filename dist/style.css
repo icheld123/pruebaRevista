@@ -1564,5 +1564,115 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(3) p {
     line-height: 15px!important;
+  }
 }
+@media (orientation: landscape) {
+  body .pages_page__inner .content h1 {
+    font-size: 0.6em!important;
+    font-weight:bold;
+    margin-top: -10em;
+    line-height: 12px;
+    letter-spacing: 3px;
+  }
+  body .pages_page__inner .content_offset p {
+    font-size: 0.6em;
+    font-weight: 800;
+    line-height: 10px;
+    color: #000;
+  }
+  #contenido_offset_0{
+    width: 45%;
+    top: 10%;
+    left: 45%;
+  }
+  #contenido_offset_1{
+    width: 43%;
+    top: 15%;
+    left: 45%;
+  }
+  #contenido_offset_2{
+    width: 43%;
+    top: 27%;
+    left: 45%;
+  }
+  #contenido_offset_3{
+    width: 43%;
+    top: 10%;
+    left: 95%;
+  }
+  #contenido_offset_4{
+    width: 40%;
+    top: 33%;
+    left: 53%;
+  }
+  body .pages_page__inner .content_quote {
+    width: 35%;
+    left: 53%;
+    bottom: 7em;
+  }
+  body .pages_page__inner .content_quote h5 span {
+    font-size: 0.7em;
+    line-height: 10px;
+    
+  }
+  /*Fuente de página 4 y 5*/
+  body .pages_page__inner .content_center h4 {
+    font-size: 0.6em;
+    padding: 0;
+  }
+  body .pages_page__inner .content #texto-pag4_1,
+  body .pages_page__inner .content #texto-pag4_2,
+  body .pages_page__inner .content #texto-pag4_3,
+  body .pages_page__inner .content #texto-pag4_4{
+    margin-top: 10%;
+    line-height: 17px;
+    font-size: 0.6em;
+    width: 90%;
+  }
+  body .pages_page__inner .content #texto-pag4_1 h2,
+  body .pages_page__inner .content #texto-pag4_2 h2,
+  body .pages_page__inner .content #texto-pag4_3 h2,
+  body .pages_page__inner .content #texto-pag4_4 h2{
+    margin-bottom: 1em;
+  }
+  body .pages_page__inner .content #texto-pag4_4,
+  body .pages_page__inner .content #texto-pag4_2{
+    margin-top: 20%;
+  }
+  body .pages_page__inner .content #texto-pag4_3,
+  body .pages_page__inner .content #texto-pag4_4{
+    margin-left: 5%;
+    width: 80%!important;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(1) {
+    top:10%;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(2) {
+    line-height: 5px!important;
+    width: 70%;
+    margin-left: -35%;
+    top: 30%;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(3) {
+    font-size: 0.4em;
+    top:40%;
+    width: 70%;
+    margin-left: -25%;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(1) p {
+    line-height: 15px!important;
+    font-size: 0.6em;
+    margin-left: -10%;
+    width: 90%;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(2) p {
+    line-height: 15px!important;
+    font-size: 0.6em;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(2) h2 {
+    line-height: 15px!important;
+  }
+  body .pages_page:nth-of-type(7) .pages_page__inner .content_section:nth-of-type(3) p {
+    line-height: 15px!important;
+  }
 }
