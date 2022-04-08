@@ -1377,27 +1377,27 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
     color: #000;
   }
   #contenido_offset_0{
-    width: 45%;
+    width: 43%;
     top: 10%;
     left: 120%;
   }
   #contenido_offset_1{
-    width: 43%;
+    width: 41%;
     top: 20%;
     left: 120%;
   }
   #contenido_offset_2{
-    width: 30%;
+    width: 28%;
     top: 43%;
     left: 136%;
   }
   #contenido_offset_3{
-    width: 43%;
+    width: 40%;
     top: 10%;
     left: 170%;
   }
   #contenido_offset_4{
-    width: 40%;
+    width: 38%;
     top: 61%;
     left: 120%;
   }
