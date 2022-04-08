@@ -1,0 +1,4 @@
+ 1. Cajas de texto
+ ---->Línea 1049
+ Clase content_offset 
+ Media queries: Línea 1079
