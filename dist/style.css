@@ -1469,7 +1469,7 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
     font-weight:bold;
     width: 150%;
     margin-top: -15em;
-    margin-left: -5em;
+    margin-left: -10em;
     line-height: 12px;
     letter-spacing: 3px;
   }
@@ -1491,7 +1491,7 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   #contenido_offset_2{
     width: 43%;
-    top: 27%;
+    top: 30%;
     left: 135%;
   }
   #contenido_offset_3{
@@ -1501,12 +1501,12 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   #contenido_offset_4{
     width: 45%;
-    top: 33%;
+    top: 40%;
     left: 135%;
   }
   body .pages_page__inner .content_quote {
     left: 53%;
-    bottom: 7em;
+    bottom: 6em;
   }
   body .pages_page__inner .content_quote h5 span {
     font-size: 0.4em;
