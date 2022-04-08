@@ -1469,12 +1469,12 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
     font-weight:bold;
     width: 150%;
     margin-top: -15em;
-    margin-left: -10em;
+    margin-left: -5em;
     line-height: 12px;
     letter-spacing: 3px;
   }
   body .pages_page__inner .content_offset p {
-    font-size: 0.4em;
+    font-size: 0.3em;
     font-weight: 800;
     line-height: 10px;
     color: #000;
@@ -1486,7 +1486,7 @@ body .pages input[type=radio]:nth-of-type(4):checked + div + div + div + div + d
   }
   #contenido_offset_1{
     width: 43%;
-    top: 15%;
+    top: 20%;
     left: 135%;
   }
   #contenido_offset_2{
